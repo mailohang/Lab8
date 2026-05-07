@@ -1,0 +1,45 @@
+[
+     {
+        
+        "sender": "Masu",
+        "subject": "Masu Update",
+        "preview": "Hi, just wanted to share the latest project update...",
+        "time": "9:41 AM",
+        "isRead": false
+    },
+    {
+        "sender": "Mailo",
+        "subject": "Meeting with Mailo",
+        "preview": "Don't forget we have the standup at 10am tomorrow.",
+        "time": "8:15 AM",
+        "isRead": true
+    },
+    {
+        "sender": "Jawed sir",
+        "subject": "The best",
+        "preview": "I like you work.",
+        "time": "Yesterday",
+        "isRead": false
+    },
+    {
+        "sender": "Best sir",
+        "subject": "Fr",
+        "preview": "Best between all.",
+        "time": "Mon",
+        "isRead": true
+    },
+    {
+        "sender": "Manji Gamng",
+        "subject": "Gaangz",
+        "preview": "Shhh",
+        "time": "Sun",
+        "isRead": false
+    },
+    {
+        "sender": "Lucky Number 4",
+        "subject": "No 4",
+        "preview": "Is 4 actually the lucky number?",
+        "time": "Sat",
+        "isRead": true
+    }
+]
